@@ -22,3 +22,5 @@ Node.js & Express.js: Powered the backend with these robust technologies for a s
 Sequelize: Leveraged the power of Sequelize for efficient database management with SQLite. 🗃️
 Discord API: Seamlessly integrated Discord's powerful API for seamless communication. 🤖
 Webhooks: Leveraged webhooks to automate sending order and payment summaries to Discord channels. 📡
+![Screenshot 2023-10-08 232610](https://github.com/Souvik-clr/Ecommerce-Backend/assets/85739780/39495a3b-4fa7-40a7-9ebd-67bcd4ae394f)
+
